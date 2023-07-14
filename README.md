@@ -46,4 +46,6 @@ pip install -r requirements.txt
 python main.py 
 ```
   
-  
+## 感谢   
+- [LINKX](https://github.com/YeexiaoZheng/Multimodal-Sentiment-Analysis)
+- [LINKX](https://github.com/Jankeeeeee/multimodal-sentiment-analysis/blob/main/process_data.ipynb)
